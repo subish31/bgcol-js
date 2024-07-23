@@ -1,0 +1,20 @@
+#box{
+    width:450px;
+    height:150px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    margin:200px 200px 30px 200px;
+    border: 1px solid black;
+}
+p{
+    margin-top: 60px;
+    background-color: black;
+    width:200px;
+    text-align: center;
+    color: white;
+}
+button{
+    margin-bottom: 20px;
+    margin-left: 370px;
+}
